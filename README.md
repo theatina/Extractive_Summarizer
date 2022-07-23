@@ -1,2 +1,2 @@
-# Extractive_Summarizer
+# Extractive Summarizer
 Exctractive Single-Document Summarizer
