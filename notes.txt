@@ -1,0 +1,4 @@
+Our approach is
+based on the idea that the selected sentences from the doc-
+ument should be the ones that maximize the Rouge score
+with respect to gold summaries
