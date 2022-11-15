@@ -1,1 +1,2 @@
-notebooks/** linguist-vendored
+Code/Kaggle/** linguist-vendored
+*.ipynb
