@@ -1,2 +1,3 @@
 # Code/Kaggle/** linguist-vendored
 *.ipynb linguist-language=Python
+Code/Kaggle/*.ipynb linguist-language=Python
